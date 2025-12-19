@@ -7,10 +7,19 @@ A simple patch that adds QoL speedrunning changes for Surgeon Simulator.
 ## Features
 
 ### Improved Timer
-- The in-game timer now shows milliseconds
+- The in-game timer now shows milliseconds.
 
 ### Fast Restart
 - Press "F" to restart the level at any point. This is especially nice to get skip past the death screen.
+
+### Global Timer
+- Tracks overall time. Pauses during level loads.
+
+### Global Restart
+- Press "P" to restart from the beginning. This will reset the global timer.
+
+### Misc
+- The intro sequence is disabled for faster initial loading.
 
 ---
 
